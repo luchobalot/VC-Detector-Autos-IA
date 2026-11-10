@@ -1,0 +1,14 @@
+# Entorno virtual y cache de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Videos (se copian a mano en cada PC); se conserva la carpeta
+video/*
+!video/.gitkeep
+
+# Salidas generadas por el pipeline (se recrean al ejecutar)
+resultados/
+
+# Modelo preentrenado (se descarga solo la primera vez)
+*.pt

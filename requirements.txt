@@ -1,0 +1,5 @@
+ultralytics==8.3.40
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.3
+lapx==0.5.11
